@@ -1,6 +1,20 @@
 <div align="center">
 
-# zik10188
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./assets/typing-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="./assets/typing-light.svg"
+  />
+  <img
+    alt="Turning coffee into broken code. Building things, breaking limits."
+    src="./assets/typing-light.svg"
+    width="760"
+  />
+</picture>
 
 </div>
 
